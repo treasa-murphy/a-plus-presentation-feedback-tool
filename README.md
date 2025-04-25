@@ -87,11 +87,11 @@ You will also need Python 3.9 or higher installed.
 
 ## How to Run the Tool
 
-1. **Clone the repository**  
+1. **Clone the repository:**  
    git clone https://github.com/treasa-murphy/a-plus-presentation-feedback-tool.git  
    cd a-plus-presentation-feedback-tool
 
-2. **Create and activate a Virtual Environment**  
+2. **Create and activate a virtual environment:**  
    
    **On macOS/Linux:**
    
@@ -103,13 +103,13 @@ You will also need Python 3.9 or higher installed.
    python -m venv venv  
    venv\Scripts\activate
 
-3. **Install the Python dependencies**  
+3. **Install the Python dependencies:**  
    pip install -r requirements.txt
 
-4. **Run the Streamlit app**  
+4. **Run the Streamlit app:**  
    streamlit run app.py
 
-5. **Open the app**  
+5. **Open the app:**  
    Your browser should automatically open http://localhost:8501. If it doesn't, open your browser manually and navigate to that URL. Upload your audio file and receive real-time feedback on your presentation delivery!
 
 ---
