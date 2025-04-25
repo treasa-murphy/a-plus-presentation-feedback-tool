@@ -153,8 +153,6 @@ if uploaded_file is not None:
 
             st.pyplot(fig)
 
-            fig.savefig("a-plus-plots-high-res.png", dpi=300, bbox_inches="tight")
-
             # generate feedback report
             feedback = []
             if wpm > 180:

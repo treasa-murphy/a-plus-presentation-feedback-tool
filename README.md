@@ -58,22 +58,15 @@ By offering structured and actionable feedback, this tool aims to help students 
 
 ---
 
-## Example Outputs
+## Sample Outputs
 
 <p align="center">
-  <img src="a-plus-speech-analysis.png" width="600" alt="Analysis of Speech Screenshot">
+  <img src="a-plus-speech-analysis.png" width="45%" alt="Speech Analysis Plots">
+  <img src="a-plus-personalised-feedback.png" width="45%" alt="Personalised Feedback Screenshot">
 </p>
-
----
 
 <p align="center">
   <img src="a-plus-plots.png" width="600" alt="Pitch and Energy Plots Screenshot">
-</p>
-
----
-
-<p align="center">
-  <img src="a-plus-personalised-feedback.png" width="600" alt="Personalised Feedback Screenshot">
 </p>
 
 ---
