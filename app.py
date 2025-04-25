@@ -120,7 +120,7 @@ if uploaded_file is not None:
             filler_count = sum(transcript_lower.count(word) for word in filler_words)
 
             # display results
-            st.markdown("<h3 class='pink-header'>Feedback Summary</h3>", unsafe_allow_html=True)
+            st.markdown("<h3 class='pink-header'>Analysis of Speech</h3>", unsafe_allow_html=True)
             st.write(f"<span style='color:white;'>**Speech Duration:** {duration:.2f} seconds</span>", unsafe_allow_html=True)
             st.write(f"<span style='color:white;'>**Speech Rate:** {wpm:.1f} words per minute</span>", unsafe_allow_html=True)
             st.write(f"<span style='color:white;'>**Average Pitch:** {avg_pitch:.2f} Hz</span>", unsafe_allow_html=True)
@@ -197,7 +197,7 @@ Filler Words Count: {filler_count}
 Transcript:
 {transcript}
 
-Summary Feedback:
+Presentation Feedback:
 """
             feedback_text += "\n".join([f"- {tip}" for tip in feedback])
 
