@@ -66,9 +66,7 @@ By offering structured and actionable feedback, this tool aims to help students 
 <td><img src="a-plus-plots.png" width="400"/></td>
 </tr>
 <tr>
-<td colspan="2" align="center" style="padding: 0;">
-  <img src="a-plus-personalised-feedback.png" width="800"/>
-</td>
+<td colspan="2" align="center"><img src="a-plus-personalised-feedback.png" width="500"/></td>
 </tr>
 </table>
 
