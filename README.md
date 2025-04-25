@@ -70,6 +70,43 @@ By offering structured and actionable feedback, this tool aims to help students 
 </tr>
 </table>
 
+---
+
+## Prerequisites
+
+Before installing the Python dependencies, make sure `ffmpeg` is installed on your system.
+
+To install `ffmpeg` on macOS:
+
+```bash
+brew install ffmpeg
+
+---
+
+## How to Run the Tool
+
+1. **Clone the Repository**  
+   git clone https://github.com/treasa-murphy/a-plus-presentation-feedback-tool.git  
+   cd a-plus-presentation-feedback-tool
+
+2. **Create and Activate a Virtual Environment**  
+   On macOS/Linux:  
+   python3 -m venv venv  
+   source venv/bin/activate  
+   On Windows:  
+   python -m venv venv  
+   venv\Scripts\activate
+
+3. **Install the Python Dependencies**  
+   pip install -r requirements.txt
+
+4. **Run the Streamlit App**  
+   streamlit run app.py
+
+5. **Open the App**  
+   Your browser should automatically open http://localhost:8501  
+   If it doesn't, open your browser manually and navigate to that URL.  
+   Upload your audio file and receive real-time feedback on your presentation delivery!
 
 ---
 
