@@ -94,10 +94,12 @@ You will also need Python 3.9 or higher installed.
 2. **Create and activate a Virtual Environment**  
    
    **On macOS/Linux:**
+   
    python3 -m venv venv  
    source venv/bin/activate  
 
    **On Windows:** 
+   
    python -m venv venv  
    venv\Scripts\activate
 
@@ -108,9 +110,7 @@ You will also need Python 3.9 or higher installed.
    streamlit run app.py
 
 5. **Open the app**  
-   Your browser should automatically open http://localhost:8501  
-   If it doesn't, open your browser manually and navigate to that URL.  
-   Upload your audio file and receive real-time feedback on your presentation delivery!
+   Your browser should automatically open http://localhost:8501. If it doesn't, open your browser manually and navigate to that URL. Upload your audio file and receive real-time feedback on your presentation delivery!
 
 ---
 
