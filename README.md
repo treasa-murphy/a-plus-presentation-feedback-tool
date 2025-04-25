@@ -85,7 +85,7 @@ You will also need Python 3.9 or higher installed.
 
 ---
 
-## How to Run the Tool
+## How to Run A+
 
 1. **Clone the repository:**  
    git clone https://github.com/treasa-murphy/a-plus-presentation-feedback-tool.git  
