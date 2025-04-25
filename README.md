@@ -2,7 +2,7 @@
   <img src="a-plus-logo.png" width="120" alt="A+ Logo">
 </p>
 
-# A+ Presentation Feedback Tool
+# A+: A Presentation Feedback Tool
 
 This project is a prototype Presentation Delivery Feedback Tool developed for **COMP47700**.  
 It is designed to assist university students in practising and improving their spoken communication skills by providing automated feedback on presentation delivery.
@@ -40,11 +40,11 @@ By offering structured and actionable feedback, this tool aims to help students 
 
 ## Typical Workflow
 
-1. User records or uploads an audio sample of a presentation.
+1. User uploads an audio sample of a presentation.
 2. The tool processes the audio, extracts relevant features, and generates a transcript.
 3. Heuristics evaluate the delivery and produce targeted feedback.
 4. Users receive visual and textual summaries, including suggestions for improvement.
-5. Users may re-record the passage to assess progress over time.
+5. Users may re-record and re-upload the passage to assess progress over time.
 
 ---
 
