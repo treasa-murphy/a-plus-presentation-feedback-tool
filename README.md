@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="a-plus-logo.png" width="120" alt="A+ Logo">
+</p>
+
 Presentation Delivery Feedback Tool
 ===================================
 
@@ -5,6 +9,11 @@ This project is a prototype Presentation Delivery Feedback Tool developed for
 COMP47700. It is designed to assist university students in practising and improving 
 their spoken communication skills by providing automated feedback on presentation 
 delivery.
+## A+ Presentation Feedback Tool
+
+<p align="center">
+  <img src="/Users/treasaj2/a-plus-presentation-feedback-tool/a_plus_streamlit_tool.png" width="600" alt="Screenshot of A+ tool interface">
+</p>
 
 The tool analyses a short audio recording of the user reading a presentation-style 
 passage and provides objective feedback on key delivery metrics including:

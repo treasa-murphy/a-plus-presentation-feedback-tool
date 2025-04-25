@@ -71,11 +71,11 @@ st.markdown("""
 
 st.write("""
 Welcome to **A+** – a real-time tool to help you practise and improve your spoken presentations.
-Upload a short recording and receive feedback on **pace**, **loudness**, **pause usage**, **filler words**, and **vocal style**.
+Upload a short recording below and receive feedback on **pace**, **loudness**, **pause usage**, **filler words**, and **vocal style**.
 """)
 
 # user file uploader (WAV format required)
-uploaded_file = st.file_uploader("Upload your presentation audio:", type=["wav"])
+uploaded_file = st.file_uploader("Upload your presentation audio:", type=["wav"], label_visibility="hidden")
 
 if uploaded_file is not None:
     with st.spinner('Analysing presentation...'):
@@ -131,7 +131,7 @@ if uploaded_file is not None:
             st.markdown("<h3 class='pink-header'>Transcript</h3>", unsafe_allow_html=True)
             st.markdown(f"""<div class='transcript-box'>{transcript}</div>""", unsafe_allow_html=True)
             st.markdown("<br>", unsafe_allow_html=True)
-            
+
             # display plots of speech features
             st.markdown("<h3 class='pink-header'>Visualisation of Speech Metrics</h3>", unsafe_allow_html=True)
             fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(8, 8))
