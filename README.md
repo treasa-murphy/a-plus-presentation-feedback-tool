@@ -2,7 +2,7 @@
   <img src="a-plus-logo.png" width="120" alt="A+ Logo">
 </p>
 
-# A+: A Presentation Feedback Tool
+## A+: A Presentation Feedback Tool
 
 This project is a prototype Presentation Delivery Feedback Tool developed for **COMP47700**.  
 It is designed to assist university students in practising and improving their spoken communication skills by providing automated feedback on presentation delivery.
