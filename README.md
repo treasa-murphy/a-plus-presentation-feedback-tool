@@ -65,12 +65,10 @@ By offering structured and actionable feedback, this tool aims to help students 
 <td><img src="a-plus-speech-analysis.png" width="400"/></td>
 <td><img src="a-plus-plots.png" width="400"/></td>
 </tr>
+<tr>
+<td colspan="2" align="center"><img src="a-plus-personalised-feedback.png" width="500"/></td>
+</tr>
 </table>
-
-
-<p align="center">
-  <img src="a-plus-personalised-feedback.png" width="600" alt="Feedback Screenshot">
-</p>
 
 ---
 
