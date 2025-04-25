@@ -8,6 +8,9 @@ This project is a prototype Presentation Delivery Feedback Tool developed for **
 It is designed to assist university students in practising and improving their spoken communication skills by providing automated feedback on presentation delivery.
 
 ---
+<p align="center">
+  <img src="a_plus_streamlit_tool.png" width="600" alt="Screenshot of A+ tool interface">
+</p>
 
 The tool analyses a short audio recording of the user reading a presentation-style passage and provides objective feedback on key delivery metrics including:
 
