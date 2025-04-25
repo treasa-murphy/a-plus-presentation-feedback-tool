@@ -15,11 +15,11 @@ It is designed to assist university students in practising and improving their s
 
 The tool analyses a short audio recording of the user reading a presentation-style passage and provides objective feedback on key delivery metrics including:
 
-- Speech Rate (Words Per Minute)
-- Vocal Inflection (Pitch Variation)
-- Vocal Energy (Volume/Projection)
-- Pause Usage (Timing and Frequency)
-- Filler Words (e.g., "um", "eh")
+- Speech rate (words per minute)
+- Vocal inflection (pitch variation)
+- Vocal energy (volume/projection)
+- Pause usage (timing and frequency)
+- Filler words (e.g., "um", "eh")
 
 By offering structured and actionable feedback, this tool aims to help students deliver clearer, more confident, and more engaging presentations.
 
@@ -66,9 +66,12 @@ By offering structured and actionable feedback, this tool aims to help students 
 <td><img src="a-plus-plots.png" width="400"/></td>
 </tr>
 <tr>
-<td colspan="2" align="center"><img src="a-plus-personalised-feedback.png" width="500"/></td>
+<td colspan="2" align="center" style="padding: 0;">
+  <img src="a-plus-personalised-feedback.png" width="800"/>
+</td>
 </tr>
 </table>
+
 
 ---
 
