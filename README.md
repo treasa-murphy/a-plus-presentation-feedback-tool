@@ -25,7 +25,7 @@ By offering structured and actionable feedback, this tool aims to help students 
 
 ---
 
-## Overview of Features
+### Overview of Features
 
 - Audio feature extraction using:
   - `librosa` for pitch and energy analysis
@@ -38,7 +38,7 @@ By offering structured and actionable feedback, this tool aims to help students 
 
 ---
 
-## Typical Workflow
+### Typical Workflow
 
 1. User uploads an audio sample of a presentation.
 2. The tool processes the audio, extracts relevant features, and generates a transcript.
@@ -48,7 +48,7 @@ By offering structured and actionable feedback, this tool aims to help students 
 
 ---
 
-## Technical Summary
+### Technical Summary
 
 - **Speech Rate**: Calculated by dividing transcript word count by duration.
 - **Pitch**: Extracted using `librosa.pyin` and analysed for range and variation.
@@ -58,7 +58,7 @@ By offering structured and actionable feedback, this tool aims to help students 
 
 ---
 
-## Sample Outputs
+### Sample Outputs
 
 <table>
 <tr>
@@ -71,7 +71,7 @@ By offering structured and actionable feedback, this tool aims to help students 
 </table>
 
 ---
-## Prerequisites
+### Prerequisites
 
 
 Before installing the Python dependencies, make sure ffmpeg is installed on your system.
@@ -85,7 +85,7 @@ You will also need Python 3.9 or higher installed.
 
 ---
 
-## How to Run A+
+### How to Run A+
 
 1. **Clone the repository:**  
    git clone https://github.com/treasa-murphy/a-plus-presentation-feedback-tool.git  
@@ -114,7 +114,7 @@ You will also need Python 3.9 or higher installed.
 
 ---
 
-## Educational Value
+### Educational Value
 
 This tool enables users to:
 
@@ -125,7 +125,7 @@ This tool enables users to:
 
 ---
 
-## Technologies Used
+### Technologies Used
 
 - Python
 - Streamlit
@@ -136,7 +136,7 @@ This tool enables users to:
 
 ---
 
-## Evaluation Method
+### Evaluation Method
 
 The tool’s impact is assessed through a before-and-after test:
 
@@ -146,7 +146,7 @@ The tool’s impact is assessed through a before-and-after test:
 
 ---
 
-## References
+### References
 
 - [Presenting With Confidence (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6505544/)
 - [Effects of Speaking Rate on Speech and Silent Speech Recognition (ACM)](https://dl.acm.org/doi/fullHtml/10.1145/3491101.3519611)
@@ -156,14 +156,14 @@ The tool’s impact is assessed through a before-and-after test:
 
 ---
 
-## Acknowledgements
+### Acknowledgements
 
 This project was created as part of the **COMP47700: Speech and Audio Processing** module at University College Dublin.  
 Special thanks to contributors for their voice samples and to Alessandro Ragano and the module TAs for their guidance.
 
 ---
 
-## Future Work
+### Future Work
 
 - Support for longer presentations
 - Live recording and playback functionality
