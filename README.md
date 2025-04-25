@@ -71,15 +71,17 @@ By offering structured and actionable feedback, this tool aims to help students 
 </table>
 
 ---
-
 ## Prerequisites
 
-Before installing the Python dependencies, make sure `ffmpeg` is installed on your system.
 
-To install `ffmpeg` on macOS:
+Before installing the Python dependencies, make sure ffmpeg is installed on your system.
 
-```bash
+To install ffmpeg on macOS, run:
 brew install ffmpeg
+
+On Windows, you can download and install it from the official FFmpeg website: https://ffmpeg.org/
+
+You will also need Python 3.9 or higher installed.
 
 ---
 
