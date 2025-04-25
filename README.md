@@ -12,7 +12,7 @@ delivery.
 ## A+ Presentation Feedback Tool
 
 <p align="center">
-  <img src="/Users/treasaj2/a-plus-presentation-feedback-tool/a_plus_streamlit_tool.png" width="600" alt="Screenshot of A+ tool interface">
+  <img src="a_plus_streamlit_tool.png" width="600" alt="Screenshot of A+ tool interface">
 </p>
 
 The tool analyses a short audio recording of the user reading a presentation-style 
