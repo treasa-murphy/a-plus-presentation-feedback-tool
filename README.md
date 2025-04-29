@@ -59,10 +59,14 @@ By offering structured and actionable feedback, this tool aims to help students 
 
 ### Sample Outputs
 
-<table border="0">
+<table style="border: none;">
   <tr>
-    <td><img src="images/a-plus-speech-analysis.png" width="400"/></td>
-    <td><img src="images/a-plus-plots.png" width="400"/></td>
+    <td style="border: none;">
+      <img src="images/a-plus-speech-analysis.png" width="400"/>
+    </td>
+    <td style="border: none;">
+      <img src="images/a-plus-plots.png" width="400"/>
+    </td>
   </tr>
 </table>
 
