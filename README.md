@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="a-plus-logo.png" width="120" alt="A+ Logo">
+  <img src="images/a-plus-logo.png" width="120" alt="A+ Logo">
 </p>
 
 ## A+: A Presentation Feedback Tool
@@ -9,7 +9,7 @@ It is designed to assist university students in practising and improving their s
 
 ---
 <p align="center">
-  <img src="a_plus_streamlit_tool.png" width="600" alt="Screenshot of A+ tool interface">
+  <img src="images/a_plus_streamlit_tool.png" width="600" alt="Screenshot of A+ tool interface">
 </p>
 
 The tool analyses a short audio recording of the user reading a presentation-style passage and provides objective feedback on key delivery metrics including:
@@ -61,13 +61,13 @@ By offering structured and actionable feedback, this tool aims to help students 
 
 <table>
 <tr>
-<td><img src="a-plus-speech-analysis.png" width="400"/></td>
-<td><img src="a-plus-plots.png" width="400"/></td>
+<td><img src="images/a-plus-speech-analysis.png" width="400"/></td>
+<td><img src="images/a-plus-plots.png" width="400"/></td>
 </tr>
-<tr>
-<td colspan="2"><img src="a-plus-personalised-feedback.png" width="800"/></td>
-</tr>
-</table>
+
+<p align="center">
+  <img src="images/a-plus-personalised-feedback.png" width="120" alt="A+ Logo">
+</p>
 
 ---
 ### Prerequisites
