@@ -62,13 +62,14 @@ By offering structured and actionable feedback, this tool aims to help students 
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none; padding: 0;">
-      <img src="images/a-plus-speech-analysis.png" width="400"/>
+      <img src="images/a-plus-speech-analysis.png" width="400" style="border: none; box-shadow: none;"/>
     </td>
     <td style="border: none; padding: 0;">
-      <img src="images/a-plus-plots.png" width="400"/>
+      <img src="images/a-plus-plots.png" width="400" style="border: none; box-shadow: none;"/>
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <img src="images/a-plus-personalised-feedback.png" width="800" alt="A+ Logo">
