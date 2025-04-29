@@ -67,7 +67,7 @@ By offering structured and actionable feedback, this tool aims to help students 
 </table>
 
 <p align="center">
-  <img src="images/a-plus-personalised-feedback.png" width="120" alt="A+ Logo">
+  <img src="images/a-plus-personalised-feedback.png" width="800" alt="A+ Logo">
 </p>
 
 ---
