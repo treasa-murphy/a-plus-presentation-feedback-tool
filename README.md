@@ -59,8 +59,10 @@ By offering structured and actionable feedback, this tool aims to help students 
 
 ### Sample Outputs
 
-<img src="images/a-plus-speech-analysis.png" width="400" style="display: inline-block; border: none; box-shadow: none; margin-right: 10px;"/>
-<img src="images/a-plus-plots.png" width="400" style="display: inline-block; border: none; box-shadow: none;"/>
+<div style="display: flex;">
+  <img src="images/a-plus-speech-analysis.png" width="100" style="border: none; box-shadow: none;"/>
+  <img src="images/a-plus-plots.png" width="100" style="border: none; box-shadow: none;"/>
+</div>
 
 <p align="center">
   <img src="images/a-plus-personalised-feedback.png" width="800" alt="A+ Logo">
