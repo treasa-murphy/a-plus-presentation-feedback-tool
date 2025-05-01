@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/a-plus-logo.png" width="120" alt="A+ Logo">
+  <img src="images/a-plus-logo.png" width="150" alt="A+ Logo">
 </p>
 
 ## A+: A Presentation Feedback Tool
@@ -58,7 +58,7 @@ By offering structured and actionable feedback, this tool aims to help students 
 ---
 
 ### Sample Outputs
-
+<p align="center">
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
   <img src="images/a-plus-speech-analysis.png" width="230" style="border: none; box-shadow: none;"/>
   <img src="images/a-plus-plots.png" width="230" style="border: none; box-shadow: none;"/>
@@ -67,7 +67,7 @@ By offering structured and actionable feedback, this tool aims to help students 
 <div style="text-align: center;">
   <img src="images/a-plus-personalised-feedback.png" width="800" alt="A+ Feedback" style="border: none; box-shadow: none;"/>
 </div>
-
+</p>
 ---
 ### Prerequisites
 
