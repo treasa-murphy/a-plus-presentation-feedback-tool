@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/a-plus-logo.png" width="150" alt="A+ Logo">
+  <img src="images/a-plus-logo.png" width="300" alt="A+ Logo">
 </p>
 
 ## A+: A Presentation Feedback Tool
