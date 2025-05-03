@@ -4,8 +4,7 @@
 
 ## A+: A Presentation Feedback Tool
 
-This project is a prototype Presentation Delivery Feedback Tool developed for **COMP47700**.  
-It is designed to assist university students in practising and improving their spoken communication skills by providing automated feedback on presentation delivery.
+This project is a prototype Presentation Delivery Feedback Tool developed for **COMP47700**.  It is designed to assist university students in practising and improving their spoken communication skills by providing automated feedback on presentation delivery.
 
 ---
 <p align="center">
