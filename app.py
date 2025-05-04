@@ -63,7 +63,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # display logo and title
-st.image("a-plus-logo.png", width=150)
+st.image("images/a-plus-logo.png", width=150)
 st.markdown("""
 <div class="custom-title">A+: Pace, Loudness, Um-rate, Style</div>
 <div class="custom-subtitle">A Presentation Delivery Feedback Tool</div>
