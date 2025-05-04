@@ -160,8 +160,7 @@ The tool’s impact is assessed through a before-and-after test:
 
 ### Acknowledgements
 
-This project was created as part of the **COMP47700: Speech and Audio Processing** module at University College Dublin.  
-Special thanks to contributors for their voice samples and to Alessandro Ragano and the module TAs for their guidance.
+This project was created as part of the **COMP47700: Speech and Audio Processing** module at University College Dublin.  Special thanks to contributors for their voice samples and to Alessandro Ragano and the module TAs for their guidance.
 
 ---
 
